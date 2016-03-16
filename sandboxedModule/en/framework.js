@@ -18,7 +18,6 @@ fs.readFile(fileName, function(err, src) {
   // We need to handle errors here
   
   // Run an application in sandboxed context
-  fcgvhkjblknl
   var script = vm.createScript(src, fileName);
   script.runInNewContext(sandbox);
   
