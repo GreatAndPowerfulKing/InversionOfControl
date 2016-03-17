@@ -23,6 +23,8 @@ var context = {
 context.global = context;
 var sandbox = vm.createContext(context);
 
+
+
 // Read an application source code from the file
 var fileName = './application.js';
 fs.readFile(fileName, function(err, src) {
