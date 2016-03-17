@@ -1,0 +1,9 @@
+Thu Mar 17 2016 10:12:52 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:12:52 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:12:52 GMT+0200 (EET) true
+Thu Mar 17 2016 10:19:13 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:19:13 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:19:13 GMT+0200 (EET) true
+Thu Mar 17 2016 10:20:19 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:20:19 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:20:19 GMT+0200 (EET) true

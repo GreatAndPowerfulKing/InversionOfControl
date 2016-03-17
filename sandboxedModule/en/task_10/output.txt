@@ -1,0 +1,63 @@
+Thu Mar 17 2016 10:24:32 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:24:32 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:24:32 GMT+0200 (EET) true
+Thu Mar 17 2016 10:24:43 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:24:43 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:24:43 GMT+0200 (EET) true
+Thu Mar 17 2016 10:28:58 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:28:58 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:28:58 GMT+0200 (EET) true
+Thu Mar 17 2016 10:29:14 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:29:14 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:29:14 GMT+0200 (EET) true
+Thu Mar 17 2016 10:31:36 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:31:36 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:31:36 GMT+0200 (EET) true
+Thu Mar 17 2016 10:32:58 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:32:58 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:32:58 GMT+0200 (EET) true
+Thu Mar 17 2016 10:34:38 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:34:38 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:34:38 GMT+0200 (EET) true
+Thu Mar 17 2016 10:37:07 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:37:07 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:37:07 GMT+0200 (EET) true
+Thu Mar 17 2016 10:46:21 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:46:21 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:46:21 GMT+0200 (EET) true
+Thu Mar 17 2016 10:47:41 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:47:41 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:47:41 GMT+0200 (EET) true
+Thu Mar 17 2016 10:47:51 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:47:51 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:47:51 GMT+0200 (EET) true
+Thu Mar 17 2016 10:48:47 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:48:47 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:48:47 GMT+0200 (EET) true
+Thu Mar 17 2016 10:49:07 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:49:07 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:49:07 GMT+0200 (EET) true
+Thu Mar 17 2016 10:49:18 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:49:18 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:49:18 GMT+0200 (EET) true
+Thu Mar 17 2016 10:49:37 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:49:37 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:49:37 GMT+0200 (EET) true
+Thu Mar 17 2016 10:50:34 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:50:34 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:50:34 GMT+0200 (EET) true
+Thu Mar 17 2016 10:51:06 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:51:06 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:51:06 GMT+0200 (EET) true
+Thu Mar 17 2016 10:51:19 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:51:19 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:51:19 GMT+0200 (EET) true
+Thu Mar 17 2016 10:52:46 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:52:46 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:52:46 GMT+0200 (EET) true
+Thu Mar 17 2016 10:53:39 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:53:39 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:53:39 GMT+0200 (EET) true
+Thu Mar 17 2016 10:53:52 GMT+0200 (EET) util
+application Thu Mar 17 2016 10:53:52 GMT+0200 (EET) From application global context
+application Thu Mar 17 2016 10:53:52 GMT+0200 (EET) true
