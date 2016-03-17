@@ -16,8 +16,8 @@ var timeOut = function () {
   }, 5000);
 };
 
-var interval = function(){
-  var intervalOutput = setInterval(function(){
+var interval = function() {
+  var intervalOutput = setInterval(function() {
     console.log("Hello from setInterval");
     console.log(util.format("Formated string using util: %s  %d", 'Hello, ', 2016));
   }, 1000);
