@@ -1,7 +1,8 @@
 // Wrapping function and interface example
 
-var fs = require('fs'),
-    vm = require('vm');
+global.api = {};
+api.fs = require('fs');
+api.vm = require('vm');
 
 var calls = 0;
 
@@ -36,20 +37,16 @@ var interval = setInterval(function() {
   console.log("\nCalls count: " + calls + "\n");
 }, 3000)
 
-var timeout = function () {
-  setTimeout(function () {
-    clearInterval(interval);
-  }, 15000);
-};
-
-timeout();
+setTimeout(function () {
+  clearInterval(interval);
+}, 15000);
 
 // Create a hash for application sandbox
 var context = {
   module: {},
   console: console,
   // Forward link to fs API into sandbox
-  fs: cloneInterface(fs),
+  fs: cloneInterface(api.fs),
   setTimeout: setTimeout,
   setInterval: setInterval,
   clearInterval: clearInterval
@@ -57,12 +54,12 @@ var context = {
 
 // Turn hash into context
 context.global = context;
-var sandbox = vm.createContext(context);
+var sandbox = api.vm.createContext(context);
 
 // Read an application source code from the file
 var fileName = './application.js';
-fs.readFile(fileName, function(err, src) {
+api.fs.readFile(fileName, function(err, src) {
   // Run an application in sandboxed context
-  var script = vm.createScript(src, fileName);
+  var script = api.vm.createScript(src, fileName);
   script.runInNewContext(sandbox);
 });

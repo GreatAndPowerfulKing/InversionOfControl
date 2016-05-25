@@ -11,10 +11,6 @@ var interval = setInterval(function () {
 	});
 }, 1000)
 
-var timeout = function () {
-	setTimeout(function () {
-		clearInterval(interval);
-	}, 10000);
-};
-
-timeout();
+setTimeout(function () {
+	clearInterval(interval);
+}, 10000);
